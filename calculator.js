@@ -51,3 +51,4 @@ console.log(subtract(10, 4));
 console.log(multiply(6, 7));
 console.log(divide(20, 5));
 displayHistory();
+
