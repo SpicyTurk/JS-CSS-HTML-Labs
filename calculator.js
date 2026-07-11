@@ -46,8 +46,8 @@ function saveHistory(num1, symbol, num2, result) {
 }
 
 //Testing logs
-//console.log(add(5, 3));
-//console.log(subtract(10, 4));
-//console.log(multiply(6, 7));
-//console.log(divide(20, 5));
-//displayHistory();
+console.log(add(5, 3));
+console.log(subtract(10, 4));
+console.log(multiply(6, 7));
+console.log(divide(20, 5));
+displayHistory();
